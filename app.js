@@ -12,8 +12,3 @@ http.createServer(function(request, response) {
 }).listen(8000, '127.0.0.1');
 
 console.log('Server running at http://127.0.0.1:8000/');
-
-
-// 4. Functiono that handles the reading of files and merge in value
-    // read from file and get a string
-        // merge values in to string
